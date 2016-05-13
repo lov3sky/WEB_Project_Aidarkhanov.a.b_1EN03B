@@ -1,0 +1,185 @@
+.col-md-12 {
+  padding: 0px;
+}
+
+.col-md-6 {
+  padding: 0px;
+}
+
+.col-md-8 {
+  padding: 0px;
+}
+
+.col-md-4 {
+  padding: 0px;
+}
+
+a{
+	color: black;
+	font-size: 20px;
+}
+
+body {
+  margin: 0px;
+  background-image: url(img/reg_back.jpg);
+  background-size: 100% 100%;
+  font:15px "Times New Roman";
+  color:black;
+}
+div {
+  margin: auto;
+}
+
+.header {
+	width: 100%;
+	height: 100px;
+	float: left;
+	background-color: #ddd;
+}
+
+.name_logo_1 {
+  height: 90px;
+  width: 500px;
+  float: left;
+  margin: 0px 0px 0px 30px;
+}
+.name_logo_1 h1 a {
+  font-size: 51px;
+  font-weight: 600;
+  font-family: "Broadway";
+  margin:15px 0px 15px 0px;
+}
+
+a:hover {
+	text-decoration: none;
+	color:red;
+}
+
+.reg_tab{
+	min-height: 800px;
+	float: right;
+	width: 100%;
+	font:15px "Times New Roman";
+	background-color: white;
+	border: 1px solid #ddd;
+}
+
+.hey {
+	color:black;
+}
+
+.lbl {
+	font: 25px "Times New Roman";
+	margin: 0px 10px 0px 50px;
+	display: block;
+}
+
+.lbl_h {
+	font: 30px "Times New Roman";
+	margin: 0px 10px 0px 50px;
+	display: block;
+	font-weight: bolder;
+}
+
+.inp {
+	height: 35px;
+	width: 340px;
+	float: right;
+	margin:0px 50px 10px 10px;
+	font:20px "Times New Roman";
+}
+
+.inp1 {
+	height: 35px;
+	width: 340px;
+	float: right;
+	margin:0px 50px 10px 10px;	
+	color:black;
+	font:20px "Times New Roman";
+}
+
+.inp_mini {
+	height: 35px;
+	width: 15%;
+	float: left;
+	margin:0px 10px 10px 78px;	
+	color:black;
+	font:20px "Times New Roman";
+}
+
+.inp_mini2 {
+	height: 35px;
+	width: 25%;
+	float: left;
+	margin:0px 10px 10px 0px;	
+	color:black;
+	font:20px "Times New Roman";
+}
+
+.inp_mini3 {
+	height: 35px;
+	width: 20%;
+	float: left;
+	margin:0px 10px 10px 0px;	
+	color:black;
+	font:20px "Times New Roman";
+}
+
+.inp2 {
+	height: 35px;
+	width: 100px;
+	float: right;
+	margin:0px 50px 10px 10px;	
+	color:black;
+	font:20px "Times New Roman";
+}
+
+.check {
+	height: 100px;
+	width: 340px;
+	float: right;
+	margin:0px 50px 10px 10px;	
+	color:black;
+}
+
+textarea {
+	font-size: 20px;
+	resize:none;
+}
+
+.reg_tab h1 {
+	margin-left: 50px;
+	padding: 10px 10px 10px 0px;
+	font-size: 45px;
+	font-weight: bolder;
+}
+.footer {
+	margin-top: 50px;
+	height: 25px;
+	width: 100%;
+	display: inline-block;
+	color:#fff;
+}
+
+.foot ul li{
+	list-style-type: none;
+	display: inline-block;
+	padding: 10px 10px 10px 0px;
+	font-size: 17px;
+	margin: 0px 20px 0px 0px;
+}
+.footer {
+	margin-top: 50px;
+	height: 25px;
+	width: 100%;
+	display: inline-block;
+	color:#fff;
+}
+
+.foot ul li{
+	list-style-type: none;
+	display: inline-block;
+	padding: 10px 10px 10px 0px;
+	font-size: 17px;
+	margin: 0px 20px 0px 0px;
+}

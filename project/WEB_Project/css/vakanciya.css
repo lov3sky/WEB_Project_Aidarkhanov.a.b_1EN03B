@@ -1,0 +1,222 @@
+.col-md-12 {
+  padding: 0px;
+  float: left;
+}
+
+.col-md-6 {
+  padding: 0px;	
+  float: left;
+}
+
+.col-md-8 {
+  padding: 0px;
+  float: left;
+}
+
+.col-md-4 {
+  padding: 0px;
+  float: left;
+}
+
+.col-md-10 {
+  padding: 0px;
+  float: left;
+}
+
+.col-md-2 {
+  padding: 0px;
+  float: left;
+}
+
+.col-md-7 {
+  padding: 0px;
+  float: left;
+}
+
+.col-md-5 {
+  padding: 0px;
+  float: left;
+}
+.col-md-3 {
+  padding: 0px;
+  float: left;
+}
+.col-md-9 {
+  padding: 0px;
+  float: left;
+}
+a{
+  color: black;
+  font-size: 20px;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+  color:red;
+}
+
+body {
+  margin: 0px;
+  background-color: whitesmoke;
+  font-family: "Times New Roman";
+}
+div {
+  margin: auto;
+  display: block;
+}
+
+.main_name_1 {
+  width: inherit;
+  height: 100px;
+  float: left;
+  background-color: #ddd;
+}
+.main_nv_1 {
+  width: 100%;
+  float: left;
+}
+.center_1_v {
+  height: 100px;
+  width: 100%;
+  background-color: #ddd;
+}
+.name_logo_1 {
+  height: 90px;
+  width: 500px;
+  float: left;
+  margin: 0px 0px 0px 30px;
+}
+.name_logo_1 h1 a{
+  font-size: 51px;
+  font-weight: 600;
+  font-family: "Broadway";
+  margin:15px 0px 15px 0px;
+}
+
+.dropdown-toggle {
+  font-family: "Times New Roman";
+  font-size: 21px;
+}
+
+.dropdown-menu label {
+  color:#555;
+  font: 21px "Times New Roman";
+  font-weight: 500;
+  margin-left: 5px;
+}
+
+.dropdown-menu li a {
+  color:black;
+}
+.navbar-nav li a {
+  padding-left: 30px;
+  text-align: left;
+}
+.logo_center {
+  height: 50px;
+  width: 60px;
+  float: left;
+  margin: 25px 0px 0px 17px;
+}
+.logo_center img {
+  height: 50px;
+  width: 60px;
+}
+
+.search_bar {
+  width: 400px;
+  font: 20px "Times New Roman"; 
+}
+
+.navbar-inverse {
+    border-radius: 0px!important;
+}
+.navbar-nav li {
+  font-size: 20px;
+  font-family: "Times New Roman"
+}
+
+.main {
+  width: 100%;
+  position: relative;
+  float: left;
+}
+
+.btn-default {
+  width: 80px;
+  font: 21px "Times New Roman";
+  height: 35px;
+  margin-left: 5px;
+  padding: 6px 15px 6px 9px;
+  font-weight: 500;
+}
+
+.resume_paper {
+  width: 100%;
+  float: left;
+}
+
+.navbar-inverse {
+  margin: 0px;
+}
+.footer {
+  height: 30px;
+  width: 100%;
+  display: inline-block;
+}
+
+.foot ul li{
+  list-style-type: none;
+  display: inline-block;
+  padding: 10px 10px 10px 0px;
+  font-size: 17px;
+  margin: 0px 20px 0px 0px;
+}
+#text {
+  width: 400px;
+  height: 100px;
+}
+
+.logo_logo {
+  width: 100%;
+  float: left;
+}
+
+.logo_logo h1 {
+  font-size: 45px;
+  font-weight: bold;
+}
+
+.logo_logo h2 {
+  font-size: 30px;
+  font-weight: 300;
+  margin-left: 10px;
+}
+
+.main {
+  padding: 0px 10px 0px 5px;
+  width: 100%;
+  float: left;
+}
+
+.main h3 {
+  margin:30px 0px 0px 7px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.main p {
+  margin: 10px 0px 0px 30px;
+  font-size: 25px;
+}
+
+.logo_logo h2 a {
+  font-size: 30px;
+  font-weight: 300;
+  margin-left: 10px;
+  color:blue;
+}
+
+.logo_logo h2 a:hover {
+  color:red;
+}
